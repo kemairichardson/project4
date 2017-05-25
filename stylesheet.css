@@ -39,4 +39,18 @@ h2{
     background-color: #4CAF50;
     color: white;
 }
+a:link {
+    background-color: black;
+}
+a:visited {
+    background-color: black;
+}
+
+a:hover {
+    background-color: black;
+}
+
+a:active {
+    background-color: red;
+} 
 	
